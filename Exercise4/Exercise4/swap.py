@@ -78,10 +78,10 @@ bob_amount_to_send      = 0.01
 
 # Get current block height (for locktime) in 'height' parameter for each blockchain (and put it into swap.py):
 #  curl https://api.blockcypher.com/v1/btc/test3
-btc_test3_chain_height  = 1439691
+btc_test3_chain_height  = 2408910
 
 #  curl https://api.blockcypher.com/v1/bcy/test
-bcy_test_chain_height   = 2062296
+bcy_test_chain_height   = 566059
 
 # Parameter for how long Alice/Bob should have to wait before they can take back their coins
 ## alice_locktime MUST be > bob_locktime
